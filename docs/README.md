@@ -1,1 +1,3 @@
-Readme in docs
+# Headline
+
+> An awesome project.
